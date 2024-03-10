@@ -1,0 +1,111 @@
+[
+    {
+      "id": 1,
+      "brand": "DABUR",
+      "name": "Dabur Honey 300ML",
+      "image": "/assets/img/home/dabur-honey.png",
+      "sellingPrice": 118.80,
+      "originalPrice": 120.00,
+      "stock": true
+    },
+    {
+      "id": 2,
+      "brand": "EVION",
+      "name": "Evion 400mg Strip(20)",
+      "image": "/assets/img/home/evion.png",
+      "sellingPrice": 72.66,
+      "originalPrice": 78.98,
+      "stock": true
+    },
+    {
+      "id": 3,
+      "brand": "EVERYUTH",
+      "name": "Everyuth Naturals",
+      "image": "/assets/img/home/everyuth.png",
+      "sellingPrice": 247.50,
+      "originalPrice": 275.00,
+      "stock": true
+    },
+    {
+      "id": 4,
+      "brand": "SHELCAL",
+      "name": "Shelcal 500mg(15)",
+      "image": "/assets/img/home/shelcal.png",
+      "sellingPrice": 132.76,
+      "originalPrice": 144.30,
+      "stock": true
+    },
+    {
+      "id": 5,
+      "brand": "PELLETS",
+      "name": "Sugar Free Gold",
+      "image": "/assets/img/home/sugar-free-gold.png",
+      "sellingPrice": 296.00,
+      "originalPrice": 300.00,
+      "stock": true
+    },
+    {
+      "id": 6,
+      "brand": "LITTLES",
+      "name": "Little'S Diapers",
+      "image": "/assets/img/home/littles.png",
+      "sellingPrice": 386.14,
+      "originalPrice": 499.00,
+      "stock": true
+    },
+    {
+      "id": 7,
+      "brand": "PHARMEASY",
+      "name": "Multivitamin Multimineral",
+      "image": "/assets/img/home/multivitamin.png",
+      "sellingPrice": 384.45,
+      "originalPrice": 699.00,
+      "stock": true
+    },
+    {
+      "id": 8,
+      "brand": "SOFTOVAC",
+      "name": "Constipation Powder",
+      "image": "/assets/img/home/powder.png",
+      "sellingPrice": 146.25,
+      "originalPrice": 195.00,
+      "stock": true
+    },
+    {
+      "id": 9,
+      "brand": "SUPRADYN",
+      "name": "Supradyn Multivitamin",
+      "image": "/assets/img/home/supradyn.png",
+      "sellingPrice": 54.31,
+      "originalPrice": 60.35,
+      "stock": true
+    },
+    {
+      "id": 10,
+      "brand": "I-PILL",
+      "name": "I-Pill Emergency Contraceptive",
+      "image": "/assets/img/home/i-pill.png",
+      "sellingPrice": 99.00,
+      "originalPrice": 110.00,
+      "stock": true
+    },
+    {
+      "id": 11,
+      "brand": "LIVEASY",
+      "name": "Liveasy Diabetic Protein",
+      "image": "/assets/img/home/diabetic-protein.png",
+      "sellingPrice": 559.44,
+      "originalPrice": 999.00,
+      "stock": true
+    },
+    {
+      "id": 12,
+      "brand": "DUREX",
+      "name": "Durex Condoms Pck of 10",
+      "image": "/assets/img/home/durex.png",
+      "sellingPrice": 467.50,
+      "originalPrice": 550.00,
+      "stock": true
+    }
+  ]
+  

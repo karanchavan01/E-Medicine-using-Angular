@@ -1,0 +1,32 @@
+[
+    {
+      "id": 1,
+      "title": "PHARMEASY",
+      "image": "/assets/img/brands/brand1.png"
+    },
+    {
+      "id": 2,
+      "title": "EVION",
+      "image": "/assets/img/brands/brand2.png"
+    },
+    {
+      "id": 3,
+      "title": "SUGAR-FREE",
+      "image": "/assets/img/brands/brand3.png"
+    },
+    {
+      "id": 4,
+      "title": "EVERHERB",
+      "image": "/assets/img/brands/brand4.png"
+    },
+    {
+      "id": 5,
+      "title": "BABY-CARE",
+      "image": "/assets/img/brands/brand5.png"
+    },
+    {
+      "id": 6,
+      "title": "LIVEASY",
+      "image": "/assets/img/brands/brand6.png"
+    }
+  ]

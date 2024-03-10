@@ -1,0 +1,38 @@
+[
+    {
+      "id": 1,
+      "title": "Top Products",
+      "image": "/assets/img/category/category-1.png"
+    },
+    {
+      "id": 2,
+      "title": "Personal Care",
+      "image": "/assets/img/category/category-2.png"
+    },
+    {
+      "id": 3,
+      "title": "Health Food",
+      "image": "/assets/img/category/category-3.png"
+    },
+    {
+      "id": 4,
+      "title": "Skin Care",
+      "image": "/assets/img/category/category-4.png"
+    },
+    {
+      "id": 5,
+      "title": "Baby Care",
+      "image": "/assets/img/category/category-5.png"
+    },
+    {
+      "id": 6,
+      "title": "Sexual Wellness",
+      "image": "/assets/img/category/category-6.png"
+    },
+    {
+      "id": 7,
+      "title": "Fitness Supplements",
+      "image": "/assets/img/category/category-7.png"
+    }
+  ]
+  
